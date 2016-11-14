@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a12fb1d-6519-4f6f-b8dd-0a2dffe4bd5a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/CountInfListener_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CountInfListener.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Item/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/listener/MyRequestListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/listener/MySessionListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/SessionUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CountInfListener.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -915,12 +903,12 @@
       <updated>1479125415878</updated>
       <workItem from="1479125420360" duration="5381000" />
       <workItem from="1479130917217" duration="504000" />
-      <workItem from="1479131442744" duration="367000" />
+      <workItem from="1479131442744" duration="966000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6252000" />
+    <option name="totallyTimeSpent" value="6851000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
